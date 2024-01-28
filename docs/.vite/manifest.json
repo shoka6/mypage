@@ -1,37 +1,27 @@
 {
   "_components-WS-wzDw9.js": {
-    "file": "assets/components-WS-wzDw9.js",
-    "imports": [
-      "_jsx-runtime-NroC4D4D.js"
-    ]
+    "file": "mypage/assets/components-WS-wzDw9.js",
+    "imports": ["_jsx-runtime-NroC4D4D.js"]
   },
   "_jsx-runtime-NroC4D4D.js": {
-    "file": "assets/jsx-runtime-NroC4D4D.js"
+    "file": "mypage/assets/jsx-runtime-NroC4D4D.js"
   },
   "app/entry.client.tsx": {
-    "file": "assets/entry.client-KhnOvO5G.js",
-    "imports": [
-      "_jsx-runtime-NroC4D4D.js",
-      "_components-WS-wzDw9.js"
-    ],
+    "file": "mypage/assets/entry.client-KhnOvO5G.js",
+    "imports": ["_jsx-runtime-NroC4D4D.js", "_components-WS-wzDw9.js"],
     "isEntry": true,
-    "src": "app/entry.client.tsx"
+    "src": "mypage/app/entry.client.tsx"
   },
   "app/root.tsx?client-route": {
-    "file": "assets/root-an6YSgrm.js",
-    "imports": [
-      "_jsx-runtime-NroC4D4D.js",
-      "_components-WS-wzDw9.js"
-    ],
+    "file": "mypage/assets/root-an6YSgrm.js",
+    "imports": ["_jsx-runtime-NroC4D4D.js", "_components-WS-wzDw9.js"],
     "isEntry": true,
-    "src": "app/root.tsx?client-route"
+    "src": "mypage/app/root.tsx?client-route"
   },
   "app/routes/_index.tsx?client-route": {
-    "file": "assets/_index-HHgXeHjx.js",
-    "imports": [
-      "_jsx-runtime-NroC4D4D.js"
-    ],
+    "file": "mypage/assets/_index-HHgXeHjx.js",
+    "imports": ["_jsx-runtime-NroC4D4D.js"],
     "isEntry": true,
-    "src": "app/routes/_index.tsx?client-route"
+    "src": "mypage/app/routes/_index.tsx?client-route"
   }
 }
