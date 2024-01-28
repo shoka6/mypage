@@ -4,7 +4,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
   plugins: [
-    remix({ unstable_ssr: false, assetsBuildDirectory: "root" }),
+    remix({ unstable_ssr: false, assetsBuildDirectory: "docs" }),
     tsconfigPaths(),
   ],
 });
