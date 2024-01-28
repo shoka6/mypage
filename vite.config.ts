@@ -7,5 +7,5 @@ export default defineConfig({
     remix({ unstable_ssr: false, assetsBuildDirectory: "docs" }),
     tsconfigPaths(),
   ],
-  base: "mypage",
+  base: "/mypage/",
 });
